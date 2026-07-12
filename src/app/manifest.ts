@@ -20,6 +20,6 @@ export default function manifest(): MetadataRoute.Manifest {
     ],
     name: "WildCharger.xyz",
     short_name: "WildCharger.xyz",
-    start_url: "/",
+    start_url: "/wcxyz-njs",
   };
 }
