@@ -1,0 +1,35 @@
+{
+  "name": "wildcharger-xyz",
+  "author": "Ethan Guan",
+  "license": "N/A",
+  "description": "GitHub Pages site for the WildCharger brand",
+  "homepage": "https://wildcharger.xyz/",
+  "private": true,
+  "version": "2.0.0",
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@tailwindcss/postcss": "^4.3.2",
+    "clsx": "^2.1.1",
+    "next": "^16.2.10",
+    "postcss": "^8.5.16",
+    "profanitybuster": "^0.1.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-icons": "^5.7.0",
+    "react-responsive-carousel": "^3.2.23",
+    "tailwindcss": "^4.3.2",
+    "typescript": "6.0.3"
+  },
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@types/node": "26.1.0",
+    "@types/react": "19.2.17",
+    "gh-pages": "^6.3.0",
+    "prettier": "^3.9.4",
+    "prettier-plugin-tailwindcss": "^0.8.0"
+  }
+}
